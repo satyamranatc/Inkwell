@@ -31,7 +31,7 @@ A minimalistic blog web app built with **React**, **TailwindCSS**, **Axios**, an
 
 ## 📁 Folder Structure
 
-inkwell/
+inkwell
 │
 ├── backend/
 │ ├── Server.js # Main Express server
